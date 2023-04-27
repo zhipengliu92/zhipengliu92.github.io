@@ -1,0 +1,3 @@
+Main goal
+Fast
+Strong
