@@ -1,3 +1,4 @@
-Main goal
-Fast
-Strong
+# Main goal
+* Fast
+* Strong
+* Patience
